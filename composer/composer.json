@@ -1,11 +1,11 @@
 {
-    "name": "cviniciussdias/buscador-cursos",
+    "name": "ericferrari93/Composer-Alura",
     "description": "Projeto que busca os cursos no site da Alura",
     "type": "library",
     "authors": [
         {
-            "name": "Vinicius Dias",
-            "email": "carlosv775@gmail.com"
+            "name": "Eric Ferrari Ramos",
+            "email": "ericferrarir@gmail.com"
         }
     ],
     "require": {
