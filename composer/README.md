@@ -1,3 +1,3 @@
 # Documentação do componente
 
-Este componente é SUPIMPA!!
+Pacote de buscador de cursos
